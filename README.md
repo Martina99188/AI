@@ -23,7 +23,7 @@ Figure 1: A particular instance of the cooking Chef problem. The goal is for the
 located in state (4, 3) to have a policy that always leads to cooking the eggs in location (4, 4) or (8, 4).
 Cells in (4, 1) and (6, 1) are the special gate ones.
 
-In order to apply optimal control techniques such as value iteration, you need to model the aforementioned scenario as an MDP. Recall that an MDP is defined as tuple (S, A, P, R, γ), where:
+In order to apply optimal control techniques such as value iteration, you need to model the aforementioned scenario as an MDP. Recall that an MDP is defined as tuple (S, A, P, R, γ), where:
 
 + S: The (finite) set of all possible states.
 + A: The (finite) set of all possible actions.
