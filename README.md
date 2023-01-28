@@ -17,7 +17,7 @@ on the other side (Left or Right).
 Since you have a lot hungry, it is fundamental that the agent cooks the eggs accordingly to your taste
 (scrambled/pudding) as fast as he can without letting you wait for more than necessary.
 
-![https://github.com/Martina99188/AI/](https://github.com/Martina99188/AI/blob/main/Figure1.jpg)
+![https://github.com/Martina99188/AI/](https://github.com/Martina99188/AI/blob/main/Figure1.JPG)
 
 Figure 1: A particular instance of the cooking Chef problem. The goal is for the agent currently
 located in state (4, 3) to have a policy that always leads to cooking the eggs in location (4, 4) or (8, 4).
